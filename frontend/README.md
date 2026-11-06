@@ -1,6 +1,3 @@
-# Welcome to your Lovable project
-
-
 
 ## Local Development
 
