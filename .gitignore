@@ -1,0 +1,15 @@
+# Temporary files
+.tmp-*.png
+.backup/
+.tmp/
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
